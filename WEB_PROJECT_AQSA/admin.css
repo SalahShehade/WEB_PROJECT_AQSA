@@ -1,0 +1,20 @@
+
+.navbar{
+    display: inline-flex;
+}
+.sub-menu-1{
+display: none;
+}
+
+.nav-links ul li:hover .sub-menu-1{
+    display: block;
+    position: absolute;
+    background-color:aliceblue;
+    margin-top: 15px;
+    margin-left: -15px ;
+}
+
+.nav-links ul li:hover .sub-menu-1 ul {
+  display: block;
+  margin: 10px;
+}

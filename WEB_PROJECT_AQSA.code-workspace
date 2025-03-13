@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../Downloads/WEB_PROJECT_AQSA"
+		},
+		{
+			"path": "../../C++ VS"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
